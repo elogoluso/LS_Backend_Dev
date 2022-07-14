@@ -97,8 +97,8 @@ loop do # main
   if monthly_int > 0
     monthly_payment = principle * (monthly_int / 
                     (1 - (1 + monthly_int)**(-months)))
-  elsif 
-    monthly_payment = principle / months
+  elsif
+    monthly_payment = (principle / months)
   end
 
   system 'clear'
