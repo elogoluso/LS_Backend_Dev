@@ -1,0 +1,30 @@
+video: "Here is a video of game play (https://www.youtube.com/watch?v=x5Q6-wMx-K8)"
+
+rules: 'Here are the rules:
+
+
+First to 3 will be the winner
+
+
+ Rock crushes Lizard and crushes Scissors
+
+
+ Paper covers Rock and disproves Spock
+
+
+ Scissors cuts Paper and decapitates Lizard
+
+
+ Lizard poisons Spock and eats Paper
+
+
+ Spock crushes Scissors and vaporizes Rock'
+
+ 
+welcome: 'Hello! Welcome to Rock, Paper, Scissors, Lizard, Spock!'
+choose: 'Choose Rock(r), Paper(p), Scissors(sc), Lizard(l), Spock(sp)'
+which_one: 'If you would like to play Spock, please type sp. If you would like to play Scissors, please type sc.'
+not_valid: 'That is not a valid choice, please try again.'
+time_to_play: 'Now it is time to play!'
+play_again?: 'Do you want to play again?'
+thank_you: 'Thank you for playing!'
